@@ -1,5 +1,5 @@
-import javafx.css.Size;
-import javafx.geometry.Pos;
+//import javafx.css.Size;
+//import javafx.geometry.Pos;
 
 import javax.swing.*;
 import java.awt.*;

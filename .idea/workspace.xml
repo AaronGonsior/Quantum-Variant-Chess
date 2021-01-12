@@ -1,56 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84d0672d-2b36-4015-97e5-b5265bdaac99" name="Default Changelist" comment="" />
+    <list default="true" id="9296ffcf-3b04-482e-80ed-39620c3b016c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/QuantumChess.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quantum-Variant-Chess.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/QuantumChess.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlayingBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlayingBoard.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Quantum-Variant-Chess" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1mxkYC5eEF3urvR754s4r0qPVkW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1mxrNfC8lvV4sopAjbQb0eo393u" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="quantum-variant-chess" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
-    <configuration name="QuantumChess" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Game.java" />
-      <module name="QuantumChess" />
-      <shortenClasspath name="NONE" />
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game" />
+      <module name="Quantum-Variant-Chess" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="84d0672d-2b36-4015-97e5-b5265bdaac99" name="Default Changelist" comment="" />
-      <created>1610442675072</created>
+      <changelist id="9296ffcf-3b04-482e-80ed-39620c3b016c" name="Default Changelist" comment="" />
+      <created>1610446044992</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1610442675072</updated>
-      <workItem from="1610442678396" duration="50000" />
-      <workItem from="1610442801776" duration="594000" />
-      <workItem from="1610443411681" duration="145000" />
-      <workItem from="1610443572902" duration="90000" />
-      <workItem from="1610443803902" duration="642000" />
+      <updated>1610446044992</updated>
+      <workItem from="1610446047646" duration="187000" />
+      <workItem from="1610446247327" duration="112000" />
+      <workItem from="1610446372124" duration="41000" />
     </task>
     <servers />
   </component>
@@ -58,25 +74,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610443487791">
+    <state x="711" y="376" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1610446400348">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-677.1920.1170/0.0.1920.1050/1920.-677.1920.1170@0.0.1920.1050" timestamp="1610443487791" />
-    <state x="808" y="413" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1610443438452">
+    <state x="711" y="376" key="#com.intellij.ide.util.TreeClassChooserDialog/-1920.-677.1920.1170/0.0.1920.1050/1920.-677.1920.1170@0.0.1920.1050" timestamp="1610446400348" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1610446233879">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="808" y="413" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1920.-677.1920.1170/0.0.1920.1050/1920.-677.1920.1170@0.0.1920.1050" timestamp="1610443438452" />
-    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1610443661246">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/-1920.-677.1920.1170/0.0.1920.1050/1920.-677.1920.1170@0.0.1920.1050" timestamp="1610446233879" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1610446233879">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="279" key="FileChooserDialogImpl/-1920.-677.1920.1170/0.0.1920.1050/1920.-677.1920.1170@0.0.1920.1050" timestamp="1610443661246" />
-    <state x="461" y="167" key="SettingsEditor" timestamp="1610444552500">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/-1920.-677.1920.1170/0.0.1920.1050/1920.-677.1920.1170@0.0.1920.1050" timestamp="1610446233879" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1610446233879">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="167" key="SettingsEditor/-1920.-677.1920.1170/0.0.1920.1050/1920.-677.1920.1170@0.0.1920.1050" timestamp="1610444552500" />
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1610443803241">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/-1920.-677.1920.1170/0.0.1920.1050/1920.-677.1920.1170@0.0.1920.1050" timestamp="1610446233879" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1610446233879">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/-1920.-677.1920.1170/0.0.1920.1050/1920.-677.1920.1170@0.0.1920.1050" timestamp="1610443803241" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/-1920.-677.1920.1170/0.0.1920.1050/1920.-677.1920.1170@0.0.1920.1050" timestamp="1610446233879" />
+    <state x="461" y="167" key="SettingsEditor" timestamp="1610446411382">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/-1920.-677.1920.1170/0.0.1920.1050/1920.-677.1920.1170@0.0.1920.1050" timestamp="1610446411382" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1610446371994">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/-1920.-677.1920.1170/0.0.1920.1050/1920.-677.1920.1170@0.0.1920.1050" timestamp="1610446371994" />
   </component>
 </project>
