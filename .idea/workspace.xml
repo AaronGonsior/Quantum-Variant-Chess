@@ -21,8 +21,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Quantum-Variant-Chess" />
-    <property name="settings.editor.selected.configurable" value="profiler.jvm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="QuantumChess" type="Application" factoryName="Application">
@@ -50,6 +50,7 @@
       <workItem from="1610442801776" duration="594000" />
       <workItem from="1610443411681" duration="145000" />
       <workItem from="1610443572902" duration="90000" />
+      <workItem from="1610443803902" duration="642000" />
     </task>
     <servers />
   </component>
@@ -69,13 +70,13 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/-1920.-677.1920.1170/0.0.1920.1050/1920.-677.1920.1170@0.0.1920.1050" timestamp="1610443661246" />
-    <state x="461" y="167" key="SettingsEditor" timestamp="1610443521552">
+    <state x="461" y="167" key="SettingsEditor" timestamp="1610444552500">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="167" key="SettingsEditor/-1920.-677.1920.1170/0.0.1920.1050/1920.-677.1920.1170@0.0.1920.1050" timestamp="1610443521552" />
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1610443573822">
+    <state x="461" y="167" key="SettingsEditor/-1920.-677.1920.1170/0.0.1920.1050/1920.-677.1920.1170@0.0.1920.1050" timestamp="1610444552500" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1610443803241">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/-1920.-677.1920.1170/0.0.1920.1050/1920.-677.1920.1170@0.0.1920.1050" timestamp="1610443573822" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/-1920.-677.1920.1170/0.0.1920.1050/1920.-677.1920.1170@0.0.1920.1050" timestamp="1610443803241" />
   </component>
 </project>
