@@ -1,0 +1,10 @@
+check java version with given bat file
+if not java 11, update with given jdk11.exe
+run exec
+drag not too quickly
+
+new pieces:
+elephant: rook and knight
+hawk: bishop and knight
+jaguar: cat jump(diagonal exactly 2) and pawn fork
+lion: cat jump, pawn fork and leap(direction like a rook, exactly 2 but only if nothing in the way), one up
